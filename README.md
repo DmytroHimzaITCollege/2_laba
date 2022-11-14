@@ -41,7 +41,6 @@ def simple_function_example():
     1.  
     1. 
     1. 
-- ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
 
 - результати виконання індивідуального завдання (якщо такі є);
 
