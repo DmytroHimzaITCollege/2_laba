@@ -9,9 +9,7 @@
     1. Отримано наступні результати: створено аккаунт на GitHub та публічну репозиторію з файлом README.md.
     1. Навчились сворювати аккаунт на GitHub, публічно репозиторію з файлом README.
 - ![2laba1](https://github.com/DmytroHimzaITCollege/2_laba/blob/main/2laba1.png?raw=true")
-- ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
-
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+- ![2laba2](https://github.com/DmytroHimzaITCollege/2_laba/blob/main/2laba2.png?raw=true")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
@@ -27,7 +25,7 @@ def simple_function_example():
     1.  
     1. 
     1. 
-- ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+- ![2laba3](https://github.com/DmytroHimzaITCollege/2_laba/blob/main/2laba3.png?raw=true")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
