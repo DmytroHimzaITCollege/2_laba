@@ -8,7 +8,7 @@
     1. Програма вивела значення (Усе успішно) 
     1. Отримано наступні результати: створено аккаунт на GitHub та публічну репозиторію з файлом README.md.
     1. Навчились сворювати аккаунт на GitHub, публічно репозиторію з файлом README.
-- ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+- ![2laba1](https://github.com/DmytroHimzaITCollege/2_laba/blob/main/2laba1.png?raw=true")
 - ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
 
 ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
